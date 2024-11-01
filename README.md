@@ -20,6 +20,16 @@ https://github.com/jupeeze/CoinStep_Release
 
 https://github.com/jupeeze/CoinStep_Release/assets/65474560/f12c52a4-32da-4959-b6de-932cfd4e11dd
 
+## link-mechanism_simulator
+
+https://github.com/jupeeze/link-mechanism_simulator
+
+このリポジトリは、リンク機構のシミュレーションを行い、動作をアニメーションで描画するためのものです。
+リンク機構とは、リンクと呼ばれる棒状の部品がつながって動く機構で、特定のポイントの軌跡を可視化することができます。
+simulate.pyを実行すると、リンク機構が円に沿って動く様子と、その先端が描く軌跡がアニメーションで表示されます。
+
+https://github.com/jupeeze/link-mechanism_simulator/blob/9c60bfb86461722002b53a4d0abc4e67cf5a14fe/images/IMG_1108.JPG
+
 ---
 
 
